@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><img width=100% src="https://github.com/hritikbhandari/hritikbhandari/raw/master/readme.gif"></p>
+
 
 <!--
 **AbhisekOmkar/AbhisekOmkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
