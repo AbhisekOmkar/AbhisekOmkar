@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Telegram-%40AbhisekOmkar-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/abhisekomkar)
 [![](https://img.shields.io/badge/HackerRank-AbhisekOmkar-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abhisekprasad8)
 
-![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
+![](https://github.com/AbhisekOmkar/AbhisekOmkar/blob/master/carbon%20(1).png)
 
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast for web development. Competitive coding and motorsports boost my adrenaline. <br> 
