@@ -1,7 +1,7 @@
 ## नमस्ते 🙏
 [![](https://img.shields.io/badge/LinkedIn-AbhisekOmkar-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/abhisek-omkar-prasad-70937a173/)
 [![](https://img.shields.io/badge/Gmail-abhisekprasad8@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:abhisekprasad8@gmail.com)
-[![](https://img.shields.io/badge/Telegram-% AbhisekOmkar-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/abhisekomkar)
+[![](https://img.shields.io/badge/Telegram-%AbhisekOmkar-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/abhisekomkar)
 [![](https://img.shields.io/badge/HackerRank-AbhisekOmkar-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abhisekprasad8)
 
 ![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
