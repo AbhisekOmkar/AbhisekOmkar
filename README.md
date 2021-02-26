@@ -20,6 +20,7 @@
 ![forthebadge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![forthebadge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
               
 
 
